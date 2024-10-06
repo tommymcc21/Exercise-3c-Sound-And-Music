@@ -1,4 +1,4 @@
-# Exercise-03c-Sound-And-Music
+# Exercise-03c-Sound-And-Music Tommy McCullough
 
 Exercise for MSCH-C220
 
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Tommy McCullough
